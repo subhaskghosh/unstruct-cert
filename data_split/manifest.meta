@@ -1,0 +1,7 @@
+split_created_at=2026-05-13T18:57:35Z
+source_dir=/Users/subhas/src/struct-ir/data
+out_dir=/Users/subhas/src/struct-ir/data_split
+max_part_size_bytes=25165824
+manifest_file=manifest.tsv
+format=tsv
+notes=For kind=file, part_rel_path equals rel_path and part_count=1. For kind=sharded, one row per part.
